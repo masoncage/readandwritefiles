@@ -8,6 +8,6 @@ def main():
         print(counter,". ", line.rstrip('\n'),sep='')
 
         counter +=1
-    infile.close()    
+    infile.close()
 
 main()

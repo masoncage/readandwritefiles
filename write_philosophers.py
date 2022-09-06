@@ -9,5 +9,5 @@ def main():
     outfile.close()
 
 
-main()    
+main() 
 
